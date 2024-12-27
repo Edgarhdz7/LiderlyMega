@@ -22,3 +22,24 @@ Desarrollar un proyecto práctico integrador: un "Vision Board" interactivo dond
 ![image](https://github.com/user-attachments/assets/e916d851-bdcd-4485-ae33-6788e63bfdc3)
 
 ![image](https://github.com/user-attachments/assets/91c92b5d-33e4-4893-9217-05b2f0147b87)
+
+
+Surgieron muchos errores antes de llegar al resultado final 
+
+![image](https://github.com/user-attachments/assets/db97a713-e7b1-41f7-a841-4037d97e7dc9)
+
+![Imagen de WhatsApp 2024-12-26 a las 19 46 12_1b098298](https://github.com/user-attachments/assets/54230ad6-a4e2-4e59-8bb8-29da72a48bd6)
+
+![image](https://github.com/user-attachments/assets/bd437963-5638-454d-8e48-0e42462bcb59)
+
+![image](https://github.com/user-attachments/assets/acd14397-d1f9-47f3-9ab2-de1cdb1e038f)
+
+
+
+Se realizo la creacion de la base de datos en SQL Server
+
+![image](https://github.com/user-attachments/assets/c752c0ec-4885-49dd-97c9-a72fab9ad6f6)
+
+![image](https://github.com/user-attachments/assets/36577a24-e992-4a0e-9fdb-64b195545e1a)
+
+![Imagen de WhatsApp 2024-12-26 a las 19 46 12_1b098298](https://github.com/user-attachments/assets/719d0100-4142-4bbe-9dff-01f9559764fa)
