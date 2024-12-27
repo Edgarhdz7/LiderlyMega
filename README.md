@@ -17,3 +17,8 @@ Desarrollar un proyecto práctico integrador: un "Vision Board" interactivo dond
 
 ![image](https://github.com/user-attachments/assets/1a91792b-3993-4a49-94ad-e05b257cdfcc)
 
+![image](https://github.com/user-attachments/assets/9b2b5068-12de-4a47-b45d-bb4789c2b6bf)
+
+![image](https://github.com/user-attachments/assets/e916d851-bdcd-4485-ae33-6788e63bfdc3)
+
+![image](https://github.com/user-attachments/assets/91c92b5d-33e4-4893-9217-05b2f0147b87)
