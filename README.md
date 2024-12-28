@@ -43,3 +43,8 @@ Se realizo la creacion de la base de datos en SQL Server
 ![image](https://github.com/user-attachments/assets/36577a24-e992-4a0e-9fdb-64b195545e1a)
 
 ![Imagen de WhatsApp 2024-12-26 a las 19 46 12_1b098298](https://github.com/user-attachments/assets/719d0100-4142-4bbe-9dff-01f9559764fa)
+
+Se realizo la insercion de imagenes en la base de datos
+
+![image](https://github.com/user-attachments/assets/9bc0d918-0305-429e-9fde-895ec2f2324a)
+
