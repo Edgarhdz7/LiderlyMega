@@ -44,6 +44,9 @@ Se realizo la creacion de la base de datos en SQL Server
 
 ![Imagen de WhatsApp 2024-12-26 a las 19 46 12_1b098298](https://github.com/user-attachments/assets/719d0100-4142-4bbe-9dff-01f9559764fa)
 
+Se agrego el bloque de codigo en Visual Basic para realizar la conexion a la base de datos creada y asi lograr recuperar la informacion de esta misma 
+![conexionBase](https://github.com/user-attachments/assets/e63ce91c-2b02-4c1e-b1ef-57d5cc5a114c)
+
 Se realizo la insercion de imagenes en la base de datos
 
 ![image](https://github.com/user-attachments/assets/9bc0d918-0305-429e-9fde-895ec2f2324a)
